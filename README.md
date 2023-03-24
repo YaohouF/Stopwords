@@ -15,7 +15,7 @@ Stopwords
 ## Expected Result
 The result may vary by a small fraction depending on the trial, but it should be approximately the same as the tables below.
 
-|              	|    **PD (bug report)** 	|       **RT (rating)**     |     **FR (feature request)**     |     **UE (user experience)**     |
+|              	|    **PD &emsp;(bug report)** 	|       **RT &emsp;(rating)**     |     **FR &emsp;(feature request)**     |     **UE &emsp;(user experience)**     |
 |:----------	|:---------------	|:---------------  |:---------------	|:---------------	|
-|              	|    Pre&emsp;&emsp;&emsp;Rec&emsp;&emsp;&emsp;F1 	|       Pre&emsp;&emsp;&emsp;Rec&emsp;&emsp;&emsp;F1     |     Pre&emsp;&emsp;&emsp;Rec&emsp;&emsp;&emsp;F1     |     Pre&emsp;&emsp;&emsp;Rec&emsp;&emsp;&emsp;F1     |
+|              	|    Pre&emsp;&emsp;Rec&emsp;&emsp;F1 	|       Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |
 |**SE domain (Poisson)** |      10.0%&emsp;37.5%&emsp;15.8%     |       72.1%&emsp;78.0%&emsp;74.9%  	|        7.1%&emsp;29.8%&emsp;11.5%     |      11.6%&emsp;32.0%&emsp;17.0%       |
