@@ -20,3 +20,8 @@ The result may vary by a small fraction depending on the trial, but it should be
 |              	|    Pre&emsp;&emsp;Rec&emsp;&emsp;F1 	|       Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |
 |**SE domain (Poisson)** |      10.0%&emsp;37.5%&emsp;15.8%     |       72.1%&emsp;78.0%&emsp;74.9%  	|        7.1%&emsp;29.8%&emsp;11.5%     |      11.6%&emsp;32.0%&emsp;17.0%       |
 |**SE domain (TF-IDF)** |      10.7%&emsp;40.2%&emsp;16.9%     |       72.2%&emsp;78.2%&emsp;75.1%  	|        7.9%&emsp;33.3%&emsp;12.8%     |      11.7%&emsp;32.5%&emsp;17.2%       |
+
+|              	|    **Top-10** 	|       **MRR@10**     |     **MAP@10**     |     **MR@K**     |
+|:----------	|:---------------	|:---------------  |:---------------	|:---------------	|
+|**SE domain (Poisson)** |     83.85%     |       52.29%  	|        43.27%     |      54.47%       |
+|**SE domain (TF-IDF)** |      84.17%     |       53.20%  	|        45.82%     |      56.8%       |
