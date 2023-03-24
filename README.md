@@ -15,7 +15,7 @@ Stopwords
 ## Expected Result
 The result may vary by a small fraction depending on the trial, but it should be approximately the same as the tables below.
 
-|              	|    **PD (bug report)** 	||       **RT (rating)**     ||     **FR (feature request)**     ||     **UE (user experience)**     ||
+|              	|    **PD (bug report)** 	|       **RT (rating)**     |     **FR (feature request)**     |     **UE (user experience)**     |
 |              	|    Pre&emsp;Rec&emsp;F1 	|       Pre&emsp;Rec&emsp;F1     |     Pre&emsp;Rec&emsp;F1     |     Pre&emsp;Rec&emsp;F1     |
 |:----------	|:---------------	|:---------------  |:---------------	|:---------------	|
 |              	|    Pre&emsp;&emsp;Rec&emsp;&emsp;F1 	|       Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |
