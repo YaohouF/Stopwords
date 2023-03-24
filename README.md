@@ -18,4 +18,4 @@ The result may vary by a small fraction depending on the trial, but it should be
 |              	|    **PD (bug report)** 	|       **RT (rating)**     |     **FR (feature request)**     |     **UE (user experience)**     |
 |:----------:	|:---------------:	|:---------------:  |:---------------:	|:---------------:	|
 |              	|    Pre&emsp;&emsp;Rec&emsp;&emsp;F1 	|       Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |
-|**SE domain (Poisson)** |      10.0%   37.5%   15.8%     |       72.1%   78.0%   74.9%  	|        7.1%   29.8%   11.5%     |      11.6%   32.0%   17.0%       |
+|**SE domain (Poisson)** |      10.0%&emsp;37.5%&emsp;15.8%     |       72.1%&emsp;78.0%&emsp;74.9%  	|        7.1%&emsp;29.8%&emsp;11.5%     |      11.6%&emsp;32.0%&emsp;17.0%       |
