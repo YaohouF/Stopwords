@@ -16,6 +16,7 @@ Stopwords
 The result may vary by a small fraction depending on the trial, but it should be approximately the same as the tables below.
 
 |              	|    **PD &emsp;(bug report)** 	|       **RT &emsp;(rating)**     |     **FR &emsp;(feature request)**     |     **UE &emsp;(user experience)**     |
+|:----------	|:---------------	|:---------------  |:---------------	|:---------------	|
 |              	|    Pre&emsp;&emsp;Rec&emsp;&emsp;F1 	|       Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |
 |:----------	|:---------------	|:---------------  |:---------------	|:---------------	|
 |              	|    Pre&emsp;&emsp;Rec&emsp;&emsp;F1 	|       Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |     Pre&emsp;&emsp;Rec&emsp;&emsp;F1     |
