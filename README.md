@@ -39,8 +39,8 @@ The result may vary by a small fraction depending on the trial, but it should be
 ### Overall Performance
 | **Stop word list** | **Better**|**Worse** |**Same** |
 |:----------	|:---------------	|:---------------  |:---------------  |
-|**No Stop Words**|4 |12 |3 |
-|**[Very Small] (https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/very_small.txt)**|10|7|2|
+|No Stop Words|4 |12 |3 |
+|[Very Small] (https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/very_small.txt)|10|7|2|
 |**Small**|13|5|1|
 |**Medium**|11|7|1|
 |**Large**|11|8|0|
