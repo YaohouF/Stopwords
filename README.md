@@ -40,10 +40,10 @@ The result may vary by a small fraction depending on the trial, but it should be
 | **Stop word list** | **Better**|**Worse** |**Same** |
 |:----------	|:---------------	|:---------------  |:---------------  |
 |No Stop Words|4 |12 |3 |
-|[Very Small](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/very_small.txt)|10|7|2|
-|**Small**|13|5|1|
-|**Medium**|11|7|1|
-|**Large**|11|8|0|
-|**Technology Domain**|9|9|1|
-|**SE Domain (Poisson)**|12|5|2|
-|**SE Domain (TF-IDF)**|17|1|1|
+|**[Very Small](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/very_small.txt)**|10|7|2|
+|**[Small](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/small.txt)**|13|5|1|
+|**[Medium](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/medium.txt)**|11|7|1|
+|**[Large](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/large_stopwords.txt)**|11|8|0|
+|**[Technology Domain](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/technology_domain_stopwords.txt)**|9|9|1|
+|**[SE Domain (Poisson)](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/possion_approach.txt)**|12|5|2|
+|**[SE Domain (TF-IDF)](https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/tfidf_approach.txt)**|17|1|1|
