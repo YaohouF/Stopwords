@@ -34,3 +34,16 @@ The result may vary by a small fraction depending on the trial, but it should be
 |**Query 2**	|0.588	|0.588 |
 |**Query 4**	|0.981	|0.981 |
 |**Query 5**	|0.602	|0.602 |
+
+
+### Overall Performance
+| **Stop word list** | **Better**|**Worse** |**Same** |
+|:----------	|:---------------	|:---------------  |:---------------  |
+|**No Stop Words**|4 |12 |3 |
+|**[Very Small] (https://github.com/YaohouF/Stopwords/blob/main/stopwords_lists/very_small.txt)**|10|7|2|
+|**Small**|13|5|1|
+|**Medium**|11|7|1|
+|**Large**|11|8|0|
+|**Technology Domain**|9|9|1|
+|**SE Domain (Poisson)**|12|5|2|
+|**SE Domain (TF-IDF)**|17|1|1|
